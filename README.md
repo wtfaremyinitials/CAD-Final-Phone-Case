@@ -11,4 +11,5 @@ The root of this repo will contain the main Autodesk Inventor part file, and the
 Time Management
 ===============
 
-[Gantt Chart](https://docs.google.com/spreadsheet/ccc?key=0ApMipExNfk0fdC1INjVVWElmLWdGQXZFMVN3V3RhX0E&usp=sharing)
+- [Gantt Chart](https://docs.google.com/spreadsheet/ccc?key=0ApMipExNfk0fdC1INjVVWElmLWdGQXZFMVN3V3RhX0E&usp=sharing)
+- [Calendar](https://www.google.com/calendar/b/1/render?pli=1&t=AKUaPmbmpk9BfPhFrlQ6469J1IzHtD-atbP3BkW0W6SAPXD_sVD59yl8g21voCkwpo_0WIDtCCID5h6UOZSyo2BnvzVl47NMGQ)
