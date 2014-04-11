@@ -1,7 +1,7 @@
 CAD Final Phone Case
 ====================
 
-My CAD Class Final Project. It is an iPhone 5C case with space for a built-in *iQi Mobile Wireless Charger*.
+My CAD Class Final Project. It is an iPhone 5C case that is capable of wirelessly charging the phone.
 
 Folder Structure
 ================
