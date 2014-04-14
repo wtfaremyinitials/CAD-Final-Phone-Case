@@ -18,3 +18,12 @@ Problem Statement
 =================
 
 The problem is that needing to plug in a phone at night to charge is annoying and not convenient.
+
+Research
+========
+
+It is possible to hack wireless charging into the phone itself, but it is extremely difficult.^[0](http://lifehacker.com/5598744/hack-an-induction-charger-to-work-with-any-cellphone)
+
+It is even harder to do this on the iPhone because it requires you to rebuild the entire backplate.^[1](http://lifehacker.com/5923977/mod-your-iphone-for-wireless-charging-no-bulky-case-required)
+
+There are commercial products available to do just this, but the cases are extremely bulky^[2](http://www.duracellpowermat.com/) and use proprietary hardware.
