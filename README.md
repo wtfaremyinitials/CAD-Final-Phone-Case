@@ -17,4 +17,4 @@ Time Management
 Problem Statement
 =================
 
-Needing to plug in a phone at night to charge is annoying and not convenient.
+The problem is that needing to plug in a phone at night to charge is annoying and not convenient.
