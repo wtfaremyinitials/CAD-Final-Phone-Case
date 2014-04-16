@@ -65,6 +65,20 @@ Research
 	- Source
 		- http://www.androidpolice.com/2014/01/08/hands-on-the-air-dock-wireless-car-charger-might-get-everything-right/
 		- https://www.google.com/search?q=qi+charger#q=qi+charger&tbm=shop
+- *Images*
+	![enter image description here][1]
+    ![enter image description here][2]
+    ![enter image description here][3]
+    ![enter image description here][4]
+    ![enter image description here][5]
+
 
 - *Other important research*
 	- [iPhone 5C dimensional drawing from case guide](https://developer.apple.com/resources/cases/Case-Design-Guidelines.pdf). (page 16)
+
+
+  [1]: http://www.elecfreaks.com/store/images/wireless_charging_01.jpg
+  [2]: http://www.qiwireless.com/wp-content/uploads/2014/04/nokia-lumia-930-wireless-charging-free.jpg
+  [3]: http://images.gizmag.com/hero/13046_6100992920.png
+  [4]: http://agbeat.com/wp-content/uploads/2012/11/wireless-charger.jpg
+  [5]: http://i.nokia.com/r/image/view/-/2830212/lowRes/3/-/Nokia-Wireless-Charging-Plate-DT-601.jpg
