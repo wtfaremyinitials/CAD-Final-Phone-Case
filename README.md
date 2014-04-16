@@ -26,41 +26,42 @@ Research
 
 - *Take apart the phone and hack wireless charging into the internals of the phone itself*
 	- Good
-		- Seamless
-		- No way the system could randomly break
+		- The final product would be completely seamless, no case required.
+		- There is no way to lose the product, as it would be part of the phone.
 	- Bad
-		- Extremely hard to do
-		- Requires soldering skills
-		- Near impossible to do in recent iPhones due to no space inside the phone
+		- Modifying the inside of cellphones is extremely difficult.
+		- This method would require soldering skills.
+		- It is near impossible to do in recent iPhones due to no space inside the phone.
 	- Ugly
-		- The phone might not look the same after being opened and modded
+		- The phone might not look the same after being opened and modified.
+		- There is a possibility of ruining the phone when you start modifying it with a soldering iron.
+		- Opening and modifying the phone voids the warranty.
 	- Sources
-		- [Any phone](http://lifehacker.com/5598744/hack-an-induction-charger-to-work-with-any-cellphone)
-		- [iPhone 4 design](http://lifehacker.com/5923977/mod-your-iphone-for-wireless-charging-no-bulky-case-required)
+		- http://lifehacker.com/5598744/hack-an-induction-charger-to-work-with-any-cellphone
+		- http://lifehacker.com/5923977/mod-your-iphone-for-wireless-charging-no-bulky-case-required
 - *Cases made by other companies*
 	- Good
-		- Guaranteed to work
-		- Backed by a large company
-		- Thoroughly tested
-		- All the work is done
+		- This solution is good because its a consumer product so there's a guarantee that it will actually work.
+		- Going with this solution means that the case is backed by a large company, so there would be support available.
+		- The final product would be very well tested.
 	- Bad
-		- Extremely bulky
-		- Uses proprietary hardware
+		- Almost all consumer case designs are extremely bulky.
+		- The case listed below uses proprietary hardware, so you would be required to use their chargers.
 	- Ugly
-		- The case looks terrible
+		- Their case design looks absolutely terrible.
 	- Sources
 		- http://www.duracellpowermat.com/
 - *Wireless charging inserts*
 	- Good
-		- Allows you to use any case
-		- Backed by a large company
-		- Tested
-		- Allows you to use existing charging peripherals
+		- Using an insert allows you to use any case.
+		- These wireless charging inserts are backed by a large company.
+		- They have been thoroughly tested.
+		- Using this allows you to use existing charging peripherals.
 	- Bad
-		- Bends and warps cases due to added size
-		- The connector is visible at the bottom of the phone
+		- The insert itself bends and warps cases due to added size.
+		- The connector is visible at the bottom of the phone, because cases are not designed for these inserts.
 	- Ugly
-		- Most inserts itself look really bad
+		- The insert itself does not look appealing.
 	- Source
 		- http://www.androidpolice.com/2014/01/08/hands-on-the-air-dock-wireless-car-charger-might-get-everything-right/
 		- https://www.google.com/search?q=qi+charger#q=qi+charger&tbm=shop
