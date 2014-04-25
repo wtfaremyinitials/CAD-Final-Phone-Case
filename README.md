@@ -77,6 +77,9 @@ Research
 	- [iPhone 5C dimensional drawing from case guide](https://developer.apple.com/resources/cases/Case-Design-Guidelines.pdf). (page 16)
 
 
+- *Possible Solution Drawings*
+	- https://docs.google.com/drawings/d/1QpO3KwYc-p1OP1lBQMr6mYBMkoDSW1AJbdFSpFOyMpc/edit?usp=sharing
+
   [1]: http://www.elecfreaks.com/store/images/wireless_charging_01.jpg
   [2]: http://www.qiwireless.com/wp-content/uploads/2014/04/nokia-lumia-930-wireless-charging-free.jpg
   [3]: http://images.gizmag.com/hero/13046_6100992920.png
