@@ -75,6 +75,10 @@ Research
 
 - *Other important research*
 	- [iPhone 5C dimensional drawing from case guide](https://developer.apple.com/resources/cases/Case-Design-Guidelines.pdf). (page 16)
+  
+Possible Solution Sketches
+==========================
+
 
 
   [1]: http://www.elecfreaks.com/store/images/wireless_charging_01.jpg
@@ -82,3 +86,4 @@ Research
   [3]: http://images.gizmag.com/hero/13046_6100992920.png
   [4]: http://agbeat.com/wp-content/uploads/2012/11/wireless-charger.jpg
   [5]: http://i.nokia.com/r/image/view/-/2830212/lowRes/3/-/Nokia-Wireless-Charging-Plate-DT-601.jpg
+ 
