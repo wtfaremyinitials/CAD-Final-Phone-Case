@@ -79,11 +79,11 @@ Research
 Possible Solution Sketches
 ==========================
 
-
+- *Possible Solution Drawings*
+	- https://docs.google.com/drawings/d/1QpO3KwYc-p1OP1lBQMr6mYBMkoDSW1AJbdFSpFOyMpc/edit?usp=sharing
 
   [1]: http://www.elecfreaks.com/store/images/wireless_charging_01.jpg
   [2]: http://www.qiwireless.com/wp-content/uploads/2014/04/nokia-lumia-930-wireless-charging-free.jpg
   [3]: http://images.gizmag.com/hero/13046_6100992920.png
   [4]: http://agbeat.com/wp-content/uploads/2012/11/wireless-charger.jpg
   [5]: http://i.nokia.com/r/image/view/-/2830212/lowRes/3/-/Nokia-Wireless-Charging-Plate-DT-601.jpg
- 
