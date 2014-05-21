@@ -65,6 +65,13 @@ Research
 	- Source
 		- http://www.androidpolice.com/2014/01/08/hands-on-the-air-dock-wireless-car-charger-might-get-everything-right/
 		- https://www.google.com/search?q=qi+charger#q=qi+charger&tbm=shop
+*Disposable battery charging*
+ 	- Good
+ 		- It is very convienent because there are places to buy disposable batteries everywhere.
+ 	- Bad
+ 	- 	- Using disposable batteries is not so great for the environment.
+ 	- Ugly
+ 	- 	- Case needs to be pretty bulky to hold a battery.
 - *Images*
 	![enter image description here][1]
     ![enter image description here][2]
