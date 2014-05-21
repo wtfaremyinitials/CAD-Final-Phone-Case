@@ -65,7 +65,7 @@ Research
 	- Source
 		- http://www.androidpolice.com/2014/01/08/hands-on-the-air-dock-wireless-car-charger-might-get-everything-right/
 		- https://www.google.com/search?q=qi+charger#q=qi+charger&tbm=shop
-*Disposable battery charging*
+- *Disposable battery charging*
  	- Good
  		- It is very convienent because there are places to buy disposable batteries everywhere.
  	- Bad
