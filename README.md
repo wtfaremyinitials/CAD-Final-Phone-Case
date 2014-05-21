@@ -69,9 +69,9 @@ Research
  	- Good
  		- It is very convienent because there are places to buy disposable batteries everywhere.
  	- Bad
- 	- 	- Using disposable batteries is not so great for the environment.
+		- Using disposable batteries is not so great for the environment.
  	- Ugly
- 	- 	- Case needs to be pretty bulky to hold a battery.
+		- Case needs to be pretty bulky to hold a battery.
 - *Images*
 	![enter image description here][1]
     ![enter image description here][2]
